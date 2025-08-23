@@ -22,7 +22,7 @@ With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native ar
 
 <img width="80" height="80" alt="MircosoftAI" src="https://github.com/user-attachments/assets/210f50bd-6c33-4681-9479-f7fd21a8a26b" />
 
-<img width="145" height="140" alt="OCIGenAI" src="https://github.com/user-attachments/assets/5240a5fd-6f25-49a7-ae2e-57a7d4feac7b" />
+<img width="145" height="140" alt="OracleGenAI" src="https://github.com/user-attachments/assets/9726b1aa-1bf0-4863-875f-5e6736616952" />
 
 ---
 
