@@ -18,12 +18,12 @@ With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native ar
 ---
 
 ### Certifications
-  <p>
-  <img width="80" height="80" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/3cd9ff9f-f3ba-46f6-b0a1-5911fb713c1f" />
-  </p>
-  <p>
-  <img width="80" height="80" alt="MircosoftAI" src="https://github.com/user-attachments/assets/210f50bd-6c33-4681-9479-f7fd21a8a26b" />
-  </p>
+      <p>
+      <img width="80" height="80" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/3cd9ff9f-f3ba-46f6-b0a1-5911fb713c1f" />
+      </p>
+      <p>
+      <img width="80" height="80" alt="MircosoftAI" src="https://github.com/user-attachments/assets/210f50bd-6c33-4681-9479-f7fd21a8a26b" />
+      </p>
 <p>
 <img width="145" height="140" alt="OracleGenAI" src="https://github.com/user-attachments/assets/9726b1aa-1bf0-4863-875f-5e6736616952" />
 </p>
