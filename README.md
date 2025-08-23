@@ -36,7 +36,7 @@ With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native ar
 ---
 
 ### Connect
-- Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tooba-babar  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toobababar)
 
 ---
 *Always open to collaborating on AI + DevOps/MLOps projects.*
