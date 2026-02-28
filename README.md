@@ -20,10 +20,6 @@ With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native ar
 ### Certifications
 <img width="551" height="186" alt="latest" src="https://github.com/user-attachments/assets/ace719b1-933e-40f4-ac2c-fc14ba06a2b8" />
 
----
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toobababar&show_icons=true&theme=radical)
 
 ---
 
