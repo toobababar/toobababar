@@ -1,6 +1,6 @@
 # Tooba Babar 
 
-**AI Engineer | DevOps & MLOps Specialist | Cloud AI Infrastructure Builder**  
+**AI/ML Engineer**  
 
 I design and build **scalable AI systems in the cloud**, combining expertise in AI development, automation, and DevOps.  
 With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native architectures**, I help teams move from **AI ideas → production-ready systems** faster.  
@@ -30,7 +30,7 @@ With hands-on experience in **LangChain, LangGraph, FastAPI, and cloud-native ar
 ### Featured Projects
 - n8n-appointment-chatbot
 - langchain-python-script
-- azure-translation-en-ar
+- xray-anomaly-detection
 - docslabx
 ---
 
